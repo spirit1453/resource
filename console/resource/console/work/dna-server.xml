@@ -1,0 +1,6 @@
+<dna>
+  <http>
+	<listen host="" port="443" ssl="true" ssl-keystore="" ssl-key-password="squarms" ssl-password="squarms" ssl-keystore-type="JKS"
+			max-threads="1024" min-threads="512" max-idle-ms="10000" accept-queue-size="1024" acceptors="2"/>
+  </http>
+</dna>
